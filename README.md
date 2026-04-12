@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Manasraj28/Manasraj28/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Manasraj28/Manasraj28/output/github-contribution-grid-snake.svg)
 
 </div>
 
