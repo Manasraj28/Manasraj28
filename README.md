@@ -74,9 +74,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Manasraj's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Manasraj28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=FFFFFF)
-
+  
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manasraj28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=FFFFFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Manasraj28&theme=radical&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676)](https://github.com/Manasraj28)
